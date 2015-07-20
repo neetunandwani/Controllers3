@@ -1,0 +1,14 @@
+.project
+.classpath
+*.iml
+*.ipr
+*.iws
+target/
+.idea
+logs/
+out/
+stacktrace.log
+grailsw
+grailsw.bat
+grails-app/conf/LocalConfig.groovy
+
